@@ -15,3 +15,7 @@ Model Edits
 External Integration
 
 - Add MLB.rb gem and use MLB data to pre-populate Teams and Players.
+
+Testing
+
+- Add testing for models and requests using Rspec.
